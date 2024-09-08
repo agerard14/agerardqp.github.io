@@ -36,7 +36,7 @@ CaféPlaza es una plataforma en línea creada para ofrecerte una experiencia ún
 
 Para comenzar a usar I´m Coffe:
 
-1. **Visita el Sitio Web**: Accede a [CaféPlaza](URL del sitio web).
+1. **Visita el Sitio Web**: Accede a [I´m Coffe](https://agerardqp.github.io).
 2. **Regístrate**: Crea una cuenta para acceder a todas las funcionalidades.
 3. **Explora**: Navega por nuestro catálogo y encuentra tus cafés favoritos.
 4. **Compra**: Añade productos al carrito y completa tu compra de forma segura.
